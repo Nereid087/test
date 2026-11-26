@@ -1,7 +1,7 @@
 def greetings(name = "Isabel"):
     return f"greetings {name}"
 
-def hello(name = "Isabel"):
-    return f"hello {name}"
+def hey(name = "Isabel"):
+    return f"hey {name}"
 
 print(hello("Kevin"))
